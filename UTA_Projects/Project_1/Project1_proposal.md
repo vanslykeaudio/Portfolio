@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="../Images/UTA_logo.png" alt="UTA LOGO" height="133" width="500">
+  <img src="../Images/UTA_logo.png" alt="UTA LOGO" height="133" width="500" style="text-align: center;">
 </div>
 
 ### PROJECT 1:

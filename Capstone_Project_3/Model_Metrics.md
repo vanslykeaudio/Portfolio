@@ -2,7 +2,6 @@
 ### LSTM MODEL 36 METRICS
 ***
 #### Metrics:
-***
 - MAE trainset score:   0.002
 - RMSE trainset score:  0.045
 - MAE testset score:    0.008

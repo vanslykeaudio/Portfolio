@@ -31,5 +31,4 @@ A short list of stakeholders:
 - Dispatch
 
 #### DATA SOURCES:
-We will pull data from the various stock market API's:
 - UTA Open Data Platform.
